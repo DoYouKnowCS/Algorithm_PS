@@ -26,7 +26,7 @@
 #### Season 1 (난이도: 백준 기준 실버3~골드4)
 |   주차   |   유형   |   문제   |   난이도   |
 |--------------|--------------|--------------|--------------|
-|Week1|Graph|[나무 탈출](https://www.acmicpc.net/problem/15900) <br/> [백도어](https://www.acmicpc.net/problem/17396) <br/> [창영이와 퇴근](https://www.acmicpc.net/problem/22116) <br/> [왕위 계승](https://www.acmicpc.net/problem/5021) <br/> [엔터프라이즈호 탈출](https://www.acmicpc.net/problem/9505) <br/> |실버1 <br/> 골드5 <br/> 골드4 <br/> 골드4 <br/> 골드4 <br/>|
+|Week1|Graph|[나무 탈출](https://www.acmicpc.net/problem/15900) <br/> [백도어](https://www.acmicpc.net/problem/17396) <br/> [창영이와 퇴근](https://www.acmicpc.net/problem/22116) <br/> [왕위 계승](https://www.acmicpc.net/problem/5021) <br/> [침투](https://www.acmicpc.net/problem/13565) <br/> |실버1 <br/> 골드5 <br/> 골드4 <br/> 골드4 <br/> 실버2 <br/>|
 |Week2|백트래킹|dd|dd|
 |Week3|수학|dd|dd|
 |Week4|DP(easy)|dd|dd|
