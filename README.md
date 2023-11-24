@@ -25,11 +25,15 @@
 #### Season 1 (난이도: 백준 기준 실버3~골드4)
 |   주차   |   유형   |   문제   |   난이도   |
 |--------------|--------------|--------------|--------------|
-|Week1|Graph|[나무 탈출](https://www.acmicpc.net/problem/15900) <br/> [백도어](https://www.acmicpc.net/problem/17396) <br/> [창영이와 퇴근](https://www.acmicpc.net/problem/22116) <br/> [왕위 계승](https://www.acmicpc.net/problem/5021) <br/> [침투](https://www.acmicpc.net/problem/13565) <br/> |실버1 <br/> 골드5 <br/> 골드4 <br/> 골드4 <br/> 실버2 <br/>|
+|Week1|Graph(dfs, bfs)|[나무 탈출](https://www.acmicpc.net/problem/15900) <br/> [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) <br/> [일루미네이션](https://www.acmicpc.net/problem/5547) <br/> [강아지는 많은수록 좋다](https://www.acmicpc.net/problem/27971) <br/> [침투](https://www.acmicpc.net/problem/13565) <br/> |실버1 <br/> 골드5 <br/> 골드4 <br/> 실버1 <br/> 실버2 <br/>|
 |Week2|백트래킹|dd|dd|
-|Week3|수학|dd|dd|
-|Week4|DP(easy)|dd|dd|
-|Week5|그리디|dd|dd|
-|Week6|이분탐색|dd|dd|
-|Week7|트리|dd|dd|
-|Week8|우선순위큐|dd|dd|
+|Week3|투포인터|dd|dd|
+|Week4|누적합|dd|dd|
+|Week5|수학|dd|dd|
+|Week6|그리디|dd|dd|
+|Week7|DP|dd|dd|
+|Week8|다익스트라|dd|dd|
+|Week9|트리|dd|dd|
+|Week10|유니온 파인드|dd|dd|
+|Week11|크루스칼 (MST)|dd|dd|
+|Week12|모노톤 스택|dd|dd|
