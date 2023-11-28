@@ -31,7 +31,6 @@ public class Main {
     }
 
     private static void dfs(int node, int depth) {
-
         for(int i=0;i<nodeList.get(node).size();i++) {
             int nextNode = nodeList.get(node).get(i);
             if(!visited[nextNode]) {
