@@ -50,7 +50,6 @@ public class Main {
         }
         System.out.println(oneCnt*6-joinCnt);
     }
-
     private static void checkZero(int[][] arr, int i, int j) {
         checkLock.add(i*arr[0].length+j);
         if(i==0 || j==0 || i==arr.length-1 || j==arr[0].length-1)
