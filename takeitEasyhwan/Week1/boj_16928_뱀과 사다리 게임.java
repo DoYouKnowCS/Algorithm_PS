@@ -35,11 +35,9 @@ public class Main {
                     newPos = ladderMap.get(newPos);
                 else if(snakeMap.containsKey(newPos))
                     newPos = snakeMap.get(newPos);
-
                 if(newPos==100) {
                     return gameBoard[pos]+1;
                 }
-
                 if(gameBoard[newPos]==0) {
                     gameBoard[newPos] = gameBoard[pos]+1;
                     posQueue.offer(newPos);
