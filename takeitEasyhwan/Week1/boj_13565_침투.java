@@ -26,7 +26,6 @@ public class Main {
         }
         System.out.println(check?"YES":"NO");
     }
-
     private static void req(int iIndex, int jIndex) {
         if(iIndex<0 || iIndex>arr.length-1 || jIndex<0 || jIndex>arr[0].length-1)
             return;
