@@ -30,7 +30,6 @@ public class Main {
         for(int i=1;i<=N;i++) {
             if(dp[i]==-1)
                 continue;
-
             if(i<A) {
                 dp[i] = -1;
             }
