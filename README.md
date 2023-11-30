@@ -26,7 +26,7 @@
 |   주차   |   유형   |   문제   |   난이도   |
 |--------------|--------------|--------------|--------------|
 |Week1|Graph| [나무 탈출](https://www.acmicpc.net/problem/15900) <br/> [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) <br/> [일루미네이션](https://www.acmicpc.net/problem/5547) <br/> [강아지는 많은수록 좋다](https://www.acmicpc.net/problem/27971) <br/> [침투](https://www.acmicpc.net/problem/13565) <br/> | 실버1 <br/> 골드5 <br/> 골드4 <br/> 실버1 <br/> 실버2 <br/> |
-|Week2|백트래킹|dd|dd|
+|Week2|백트래킹|[에너지 모으기](https://www.acmicpc.net/problem/16198) </br> [N과 M 11](https://www.acmicpc.net/problem/15665) </br> [행운의 문자열](https://www.acmicpc.net/problem/1342) </br> [월드컵](https://www.acmicpc.net/problem/6987) </br> [NM과 K 1](https://www.acmicpc.net/problem/18290) <br/>| 실버1 <br/> 실버2 <br/> 실버1 <br/> 골드4 <br/> 실버1 <br/>|
 |Week3|투포인터|dd|dd|
 |Week4|누적합|dd|dd|
 |Week5|수학|dd|dd|
