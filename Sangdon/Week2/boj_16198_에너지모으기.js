@@ -4,7 +4,6 @@ let inputs = require("fs")
   .trim()
   .split("\n");
 function solution(input) {
-  let n = +input[0];
   let arrs = input[1].split(" ").map(d => +d);
   let total = 0;
   const re = (arr, sum) => {
