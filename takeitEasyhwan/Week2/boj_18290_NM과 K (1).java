@@ -6,7 +6,6 @@ import java.util.StringTokenizer;
 public class Main {
     static final int JOIN_NUM = -10_001;
     static int max;
-
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine()," ");
