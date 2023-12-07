@@ -1,52 +1,36 @@
-let inputs = require("fs")
-  .readFileSync("boj_6987_월드컵.txt")
-  .toString()
-  .trim()
-  .split("\n");
+function solution() {
+  let len = result.length - 1;
 
-function solution(input) {
-  let answer = [];
-  for (var i = 0; i < input.length; i++) {
-    let score = 0;
-    let arr = input[i].split(" ").map(d => +d);
-    let draw = [];
-    for (var k = 0; k < arr.length; k += 3) {
-      let [w, d, l] = arr.slice(k, k + 3);
-      score += w - l;
-      if (d !== 0) draw.push(d);
+  result.sort((a, b) => {
+    return b[0] - a[0];
+  });
+
+  const board = Array.from(Array(6), () => Array(3).fill(0));
+
+  for (let i = 0; i < result.length; i++) {
+    const [win, draw, defeat] = result[i];
+    board[i][0] = win;
+    board[i][1] = draw;
+
+    for (let j = len; j >= len - win + 1; j--) {
+      board[j][2] += 1;
     }
-
-    if (score !== 0) answer.push(0);
-    else {
-      let set = new Set();
-      let visited = new Array(draw.length).fill(0);
-
-      const back = (sum, count) => {
-        if (count === draw.length) {
-          set.add(sum);
-          return;
-        } else {
-          for (var i = 0; i < draw.length; i++) {
-            back(sum + draw[i], count + 1);
-
-            back(sum - draw[i], count + 1);
-            // sum += draw[i];
-          }
-        }
-      };
-
-      back(0, 0);
-      //   console.log(set);
-      if (set.has(0)) {
-        answer.push(1);
-      } else {
-        answer.push(0);
-      }
-    }
-
-    // console.log(answer);
-    // console.log(input[i]);
+    console.log(board);
   }
-  console.log(answer.join(" "));
+  for (let i = 0; i < result.length; i++) {
+    if (board[i].join("") !== result[i].join("")) return 0;
+  }
+
+  return 1;
 }
-solution(inputs);
+
+const result = [
+  [4, 1, 0],
+  [3, 0, 2],
+  [4, 1, 0],
+  [1, 1, 3],
+  [0, 0, 5],
+  [1, 1, 3],
+];
+
+console.log(solution());
