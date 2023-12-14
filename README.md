@@ -28,7 +28,7 @@
 |Week1|Graph| [나무 탈출](https://www.acmicpc.net/problem/15900) <br/> [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) <br/> [일루미네이션](https://www.acmicpc.net/problem/5547) <br/> [강아지는 많은수록 좋다](https://www.acmicpc.net/problem/27971) <br/> [침투](https://www.acmicpc.net/problem/13565) <br/> | 실버1 <br/> 골드5 <br/> 골드4 <br/> 실버1 <br/> 실버2 <br/> |
 |Week2|백트래킹|[에너지 모으기](https://www.acmicpc.net/problem/16198) </br> [N과 M 11](https://www.acmicpc.net/problem/15665) </br> [행운의 문자열](https://www.acmicpc.net/problem/1342) </br> [월드컵](https://www.acmicpc.net/problem/6987) </br> [NM과 K 1](https://www.acmicpc.net/problem/18290) <br/>| 실버1 <br/> 실버2 <br/> 실버1 <br/> 골드4 <br/> 실버1 <br/>|
 |Week3|투포인터|[귀여운 라이언](https://www.acmicpc.net/problem/15565) <br/> [부분합](https://www.acmicpc.net/problem/1806) <br/> [현대모비스 소프트웨어 아카데미](https://www.acmicpc.net/problem/26091) <br/> [로봇 프로젝트](https://www.acmicpc.net/problem/3649) <br/> [수열](https://www.acmicpc.net/problem/2559) <br/> | 실버1 <br/> 골드4 <br/> 실버1 <br/> 골드5 <br/> 실버3 <br/>|
-|Week4|누적합|[소가 길을 건너간 이유 5](https://www.acmicpc.net/problem/14465) </br> [소가 길을 건너간 이유 6](https://www.acmicpc.net/problem/14466) </br> [어두운 건 무서워](https://www.acmicpc.net/problem/16507) </br> [행성 탐사](https://www.acmicpc.net/problem/5549) </br> [유니의 편지 쓰기](https://www.acmicpc.net/problem/28070)| 실버2 <br/> 골드4 <br/> 실버1 <br/> 골드5 <br/> 실버5 <br/>|
+|Week4|누적합|[소가 길을 건너간 이유 5](https://www.acmicpc.net/problem/14465) </br> [소가 길을 건너간 이유 6](https://www.acmicpc.net/problem/14466) </br> [어두운 건 무서워](https://www.acmicpc.net/problem/16507) </br> [행성 탐사](https://www.acmicpc.net/problem/5549) </br> [유니의 편지 쓰기](https://www.acmicpc.net/problem/28070)| 실버2 <br/> 골드4 <br/> 실버1 <br/> 골드5 <br/> 골드5 <br/>|
 |Week5|수학|dd|dd|
 |Week6|그리디|dd|dd|
 |Week7|DP|dd|dd|
