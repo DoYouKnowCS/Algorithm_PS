@@ -10,7 +10,3 @@ function solution(input) {
   console.log(road);
 }
 solution(inputs);
-// 0 0 0 0
-// 0 0 0 0
-// 0 0 0 0
-// 0 0 0 0

@@ -8,14 +8,6 @@ function solution(input) {
   let n = +input[0];
   let max = 0;
   let idx = 0;
-  // 200001 -> 0
-  // 200002 -> 1
-  // 200009 -> 8
-  // 200012 -> 11
-  // 200101 -> 12
-  // 200102 -> 13
-  // 999912
-  // 7999 * 12
   let arr = new Array(100000).fill(0);
   let sum = new Array(100000).fill(0);
   sum[0] = arr[0];
@@ -35,7 +27,6 @@ function solution(input) {
       idx = i;
     }
   }
-  //   console.log(idx);
   let month = 2000 + Math.floor(idx / 12);
   let day = (idx % 12) + 1;
   if (Math.floor(day / 10) > 0) {
