@@ -29,7 +29,7 @@
 |Week2|백트래킹|[에너지 모으기](https://www.acmicpc.net/problem/16198) </br> [N과 M 11](https://www.acmicpc.net/problem/15665) </br> [행운의 문자열](https://www.acmicpc.net/problem/1342) </br> [월드컵](https://www.acmicpc.net/problem/6987) </br> [NM과 K 1](https://www.acmicpc.net/problem/18290) <br/>| 실버1 <br/> 실버2 <br/> 실버1 <br/> 골드4 <br/> 실버1 <br/>|
 |Week3|투포인터|[귀여운 라이언](https://www.acmicpc.net/problem/15565) <br/> [부분합](https://www.acmicpc.net/problem/1806) <br/> [현대모비스 소프트웨어 아카데미](https://www.acmicpc.net/problem/26091) <br/> [로봇 프로젝트](https://www.acmicpc.net/problem/3649) <br/> [수열](https://www.acmicpc.net/problem/2559) <br/> | 실버1 <br/> 골드4 <br/> 실버1 <br/> 골드5 <br/> 실버3 <br/>|
 |Week4|누적합|[소가 길을 건너간 이유 5](https://www.acmicpc.net/problem/14465) </br> [소가 길을 건너간 이유 6](https://www.acmicpc.net/problem/14466) </br> [어두운 건 무서워](https://www.acmicpc.net/problem/16507) </br> [행성 탐사](https://www.acmicpc.net/problem/5549) </br> [유니의 편지 쓰기](https://www.acmicpc.net/problem/28070)| 실버2 <br/> 골드4 <br/> 실버1 <br/> 골드5 <br/> 골드5 <br/>|
-|Week5|수학|dd|dd|
+|Week5|수학|[최대공약수](https://www.acmicpc.net/problem/1850) <br/> [소수의 주기](https://www.acmicpc.net/problem/7546) <br/> [너의 티어는?](https://www.acmicpc.net/problem/14613) <br/> [안테나](https://www.acmicpc.net/problem/18310) <br/> [잘 알려진 수열 구하기](https://www.acmicpc.net/problem/24516) <br/> | 실버1 <br/> 실버2 <br/> 실버1 <br/> 실버3 <br/> 실버3 |
 |Week6|그리디|dd|dd|
 |Week7|DP|dd|dd|
 |Week8|다익스트라|dd|dd|
