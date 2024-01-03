@@ -30,7 +30,7 @@
 |Week3|투포인터|[귀여운 라이언](https://www.acmicpc.net/problem/15565) <br/> [부분합](https://www.acmicpc.net/problem/1806) <br/> [현대모비스 소프트웨어 아카데미](https://www.acmicpc.net/problem/26091) <br/> [로봇 프로젝트](https://www.acmicpc.net/problem/3649) <br/> [수열](https://www.acmicpc.net/problem/2559) <br/> | 실버1 <br/> 골드4 <br/> 실버1 <br/> 골드5 <br/> 실버3 <br/>|
 |Week4|누적합|[소가 길을 건너간 이유 5](https://www.acmicpc.net/problem/14465) </br> [소가 길을 건너간 이유 6](https://www.acmicpc.net/problem/14466) </br> [어두운 건 무서워](https://www.acmicpc.net/problem/16507) </br> [행성 탐사](https://www.acmicpc.net/problem/5549) </br> [유니의 편지 쓰기](https://www.acmicpc.net/problem/28070)| 실버2 <br/> 골드4 <br/> 실버1 <br/> 골드5 <br/> 골드5 <br/>|
 |Week5|수학|[최대공약수](https://www.acmicpc.net/problem/1850) <br/> [소수의 주기](https://www.acmicpc.net/problem/7546) <br/> [너의 티어는?](https://www.acmicpc.net/problem/14613) <br/> [안테나](https://www.acmicpc.net/problem/18310) <br/> [잘 알려진 수열 구하기](https://www.acmicpc.net/problem/24516) <br/> | 실버1 <br/> 실버2 <br/> 실버1 <br/> 실버3 <br/> 실버3 |
-|Week6|그리디|dd|dd|
+|Week6|그리디|[이동하기 5](https://www.acmicpc.net/problem/20035) <br/> [오리](https://www.acmicpc.net/problem/12933) <br/> [Pipelined](https://www.acmicpc.net/problem/30874) <br/> [Re-verse](https://www.acmicpc.net/problem/30425) <br/> [아이템 배치하기](https://www.acmicpc.net/problem/21599) | 골드5 <br/> 실버3 <br/> 실버2 <br/> 실버1 <br/> 실버2 <br/>|
 |Week7|DP|dd|dd|
 |Week8|다익스트라|dd|dd|
 |Week9|트리|dd|dd|
