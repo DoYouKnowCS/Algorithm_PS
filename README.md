@@ -32,7 +32,7 @@
 |Week5|수학|[최대공약수](https://www.acmicpc.net/problem/1850) <br/> [소수의 주기](https://www.acmicpc.net/problem/7546) <br/> [너의 티어는?](https://www.acmicpc.net/problem/14613) <br/> [안테나](https://www.acmicpc.net/problem/18310) <br/> [잘 알려진 수열 구하기](https://www.acmicpc.net/problem/24516) <br/> | 실버1 <br/> 실버2 <br/> 실버1 <br/> 실버3 <br/> 실버3 |
 |Week6|그리디|[이동하기 5](https://www.acmicpc.net/problem/20035) <br/> [오리](https://www.acmicpc.net/problem/12933) <br/> [Pipelined](https://www.acmicpc.net/problem/30874) <br/> [Re-verse](https://www.acmicpc.net/problem/30425) <br/> [아이템 배치하기](https://www.acmicpc.net/problem/21599) | 골드5 <br/> 실버3 <br/> 실버2 <br/> 실버1 <br/> 실버2 <br/>|
 |Week7|DP|[동물원](https://www.acmicpc.net/problem/1309) <br/> [점프](https://www.acmicpc.net/problem/1890) <br/> [내려가기](https://www.acmicpc.net/problem/2096) <br/> [점프점프](https://www.acmicpc.net/problem/11060) <br/> [가장 큰 정사각형](https://www.acmicpc.net/problem/1915)| 실버1 <br/> 실버1 <br/> 골드5 <br/> 실버2 <br/> 골드4 <br/>|
-|Week8|다익스트라|dd|dd|
+|Week8|다익스트라|[최소비용 구하기](https://www.acmicpc.net/problem/1916) <br/> [지름길](https://www.acmicpc.net/problem/1446) <br/> [백도어](https://www.acmicpc.net/problem/17396) <br/> [숨바꼭질 3](https://www.acmicpc.net/problem/13549) <br/> [녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)|골드5 <br/> 실버1 <br/> 골드5 <br/> 골드5 <br/> 골드4|
 |Week9|트리|dd|dd|
 |Week10|유니온 파인드|dd|dd|
 |Week11|크루스칼 (MST)|dd|dd|
