@@ -1,6 +1,5 @@
 package inflearn;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class inflearn_01_04 {
@@ -11,13 +10,10 @@ public class inflearn_01_04 {
         for(int i=0; i<n; i++){
             str[i]=scan.next();
         }
-        ArrayList<String> answer = new ArrayList<>();
-        for(int i=0; i<n; i++){
-            String tmp = new StringBuilder()
+        for(int i=0; i<n; i++) {
+            String tmp = new StringBuilder(str[i]).reverse().toString();
+            System.out.println(tmp);
         }
-
-
-        System.out.println(answer);
-
     }
 }
+            
