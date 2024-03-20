@@ -25,9 +25,21 @@ public class inflearn_03_05 {
         }
 
         System.out.println(answer);
+        /////////2포인터 대신 수학으로 풀기
+        /*Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        int answer=0, cnt=1;
+        n--;
+        while(n>0){
+            cnt++;
+            n=n-cnt;
+            if(n%cnt==0) answer++;
+        }
+        System.out.println(answer);*/
+
 
     }
 }
 
 
-/////////2포인터 대신 수학으로 풀기
+
