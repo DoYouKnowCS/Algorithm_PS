@@ -3,7 +3,7 @@ package inflearn;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class inflearn_04_01 {
+public class inflearn_04_02 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String str1 = sc.next();
