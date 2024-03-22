@@ -10,8 +10,8 @@ public class inflearn_05_03 {
         for(int pos:moves){
             for(int i=0; i<arr.length; i++){
                 if(arr[i][pos-1]!=0){
-                    int tmp = arr[i][pos-1];
-                    arr[i][pos-1]=0;
+                    int tmp = arr[i][pos-1]; 
+                    arr[i][pos-1]=0; //뽑고 0으로 만들기
                     if(!stack.isEmpty() && tmp==stack.peek()){ //뽑지않고 확인만
                         answer +=2;
                         stack.pop();
