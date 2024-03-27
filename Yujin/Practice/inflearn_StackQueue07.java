@@ -1,13 +1,27 @@
-import java.util.Scanner;
-  
-public class Main {
-  public static void main(String[] args){
-    Scanner in=new Scanner(System.in);
+package inflearn;
 
-    //교육과정설계
-    int input1 = in.nextInt();
-    int input2 = in.nextInt();
-    System.out.println(input1 + input2);
-    return ;
-  }
+import java.util.LinkedList;
+import java.util.Queue;
+import java.util.Scanner;
+
+public class inflearn_05_07 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        String str = sc.next();
+        String subject = sc.next();
+        String answer = "YES";
+        Queue<Character> Q = new LinkedList<>();
+        for(char x: str.toCharArray()) Q.offer(x);
+        for(char x: subject.toCharArray()){
+            if(Q.contains(x)){
+                if(x!=Q.poll()){
+                    answer = "NO";
+                    break;
+                }
+            }
+        }
+        if(!Q.isEmpty()) answer = "NO";
+
+        System.out.println(answer);
+    }
 }
