@@ -11,11 +11,11 @@ public class inflearn_06_01 {
             arr[i] = sc.nextInt();
         }
         for(int i=0;i<num-1;i++){
-            int idx=i;
+            int idx=i;//인덱스 설정
             for(int j=i+1;j<num;j++){
                 if(arr[j]<arr[idx]) idx=j;
             }
-            int tmp=arr[i];
+            int tmp=arr[i]; //정렬
             arr[i] = arr[idx];
             arr[idx] = tmp;
         }
