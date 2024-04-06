@@ -25,8 +25,8 @@ public class inflearn_06_09 {
             arr[i] = sc.nextInt();
         }
         int answer=0;
-        int lt = Arrays.stream(arr).max().getAsInt();
-        int rt = Arrays.stream(arr).sum();
+        int lt = Arrays.stream(arr).max().getAsInt(); //배열 최대 가져오기
+        int rt = Arrays.stream(arr).sum(); //배열합
         while(lt<=rt){
             int mid = (lt+rt)/2;
             if(count(arr,mid)<=m){
