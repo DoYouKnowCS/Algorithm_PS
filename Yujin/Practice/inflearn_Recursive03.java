@@ -3,7 +3,7 @@ package inflearn;
 import java.util.Scanner;
 
 public class inflearn_07_03 {
-    public int DFS(int n){
+    public int DFS(int n){ //int
         if(n==1) return 1;
         else{
             return n*DFS(n-1);
