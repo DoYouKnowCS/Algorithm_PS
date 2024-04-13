@@ -13,7 +13,7 @@ public class inflearn_07_03 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n= sc.nextInt();
-        inflearn_07_03 T = new inflearn_07_03();
+        inflearn_07_03 T = new inflearn_07_03(); //Main T = new Main();
         System.out.println(T.DFS(n));
     }
 }
