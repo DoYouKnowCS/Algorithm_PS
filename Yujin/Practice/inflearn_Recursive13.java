@@ -4,7 +4,7 @@ import java.util.*;
 
 public class inflearn_07_13 {
     static int n, m, answer=0;
-    static ArrayList<ArrayList<Integer>> graph;
+    static ArrayList<ArrayList<Integer>> graph;//ArrayList를 갖는 ArrayList
     static int[] ch;
 
     public void DFS(int v){
@@ -25,7 +25,7 @@ public class inflearn_07_13 {
         Scanner sc = new Scanner(System.in);
         n = sc.nextInt(); //정점 수
         m = sc.nextInt(); //간선 수
-        graph = new ArrayList<ArrayList<Integer>>();
+        graph = new ArrayList<ArrayList<Integer>>(); //인접리스트
         for(int i=0; i<=n; i++){
             graph.add(new ArrayList<Integer>());
         }
