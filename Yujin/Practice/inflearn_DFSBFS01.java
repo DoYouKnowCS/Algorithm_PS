@@ -3,7 +3,7 @@ package inflearn;
 import java.util.*;
 
 public class inflearn_08_01 {
-    static string answer="NO";
+    static String answer="NO";
     static int n, total=0;
     boolean flag=false;
 
