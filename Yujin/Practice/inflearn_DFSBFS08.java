@@ -2,7 +2,7 @@ package inflearn;
 
 import java.util.Scanner;
 
-public class inflearn_08_07 {
+public class inflearn_08_08 {
     static int[] b, p, ch;
     static int n,f;
     boolean flag=false;
@@ -14,7 +14,12 @@ public class inflearn_08_07 {
     }
 
     public void DFS(int L, int sum){
-        if(L==n){ //미완
+        if(flag) return; //답이면 return
+        if(L==n){
+            if(sum==f){
+                for(int x: p) System.out.print(x+" ");
+                flag=true; // 답 찾으면
+            }
 
         }else{
             for(int i=1; i<=n;i++){
@@ -22,6 +27,7 @@ public class inflearn_08_07 {
                     ch[i]=1;
                     p[L]=i;
                     DFS(L+1, sum+(p[L]*b[L]));
+                    ch[i]=0;
                 }
             }
         }
@@ -29,7 +35,7 @@ public class inflearn_08_07 {
     }
 
     public static void main(String[] args) {
-        inflearn_08_07 T = new inflearn_08_07();
+        inflearn_08_08 T = new inflearn_08_08();
         Scanner sc = new Scanner(System.in);
         n = sc.nextInt();
         f = sc.nextInt();
