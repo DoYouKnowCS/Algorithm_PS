@@ -1,8 +1,6 @@
 package inflearn;
 
-import java.util.LinkedList;
-import java.util.Queue;
-import java.util.Scanner;
+import java.util.*;
 
 class Point{
     int x, y;
@@ -19,7 +17,7 @@ public class inflearn_08_14 {
     Queue<Point> queue = new LinkedList<>();
 
     public void BFS(int x, int y, int[][] board){
-        queue.add( new Point3(x,y));
+        queue.add( new Point(x,y));
         while(!queue.isEmpty()){
             Point pos = queue.poll();
             for(int i=0;i<8;i++){
