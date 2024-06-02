@@ -12,7 +12,7 @@ class Point{
 public class inflearn_08_15 {
     static int n,m,len,answer=Integer.MAX_VALUE;
     static int[] combi; //조합 저장
-    static ArrayList<Point5> pz, hs;
+    static ArrayList<Point> pz, hs;
 
     public void DFS(int L, int s){
         if(L==m){ //조합완성
